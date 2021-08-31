@@ -1,6 +1,6 @@
 ### Hi there 👋 this is Chhayly!
 
-📫 You can find me on [linkedin](linkedin.com/in/chhaylylim)
+📫 You can find me on [linkedin](https://www.linkedin.com/in/chhaylylim/)
 
 🌐 Check out my [portfolio](https://cly1st.github.io/limchhayly.github.io/)
 <!--

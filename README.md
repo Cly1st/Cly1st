@@ -1,6 +1,7 @@
 ### Hi there 👋 this is Chhayly!
 
-You can find me on [linkedin](linkedin.com/in/chhaylylim)
+📫 You can find me on [linkedin](linkedin.com/in/chhaylylim)
+🌐 Check out my [portfolio](https://cly1st.github.io/limchhayly.github.io/)
 <!--
 **Cly1st/Cly1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
